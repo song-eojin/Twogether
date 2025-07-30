@@ -4,7 +4,6 @@
 
  **Twogether는 Trello 클론 코딩 프로젝트로 협업 프로젝트 일정 관리를 지원하는 칸반 보드 서비스 입니다.**
  
-  > [MVP 시연 영상](https://www.youtube.com/watch?v=sl1O1MEnIT8)
 <br>
 
 <h2>02. 기술 스택</h2>
